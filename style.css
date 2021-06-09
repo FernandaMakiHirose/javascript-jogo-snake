@@ -1,0 +1,11 @@
+body{
+    height: 95vh; /*altura de viewport height*/
+    width: 95vw; /*largura de viewport width*/
+    display: flex; /*vai deixar os elementos do lado do outro*/
+    flex-direction: column; /*vai deixar um elemento embaixo do outro*/
+    justify-content: center; /*os espaços entre e em volta dos itens vão ficar no centro*/
+    align-items: center; /*alinhando os itens no centro*/
+    background-image: url(img/noaa-p9BRX1mBfe4-unsplash.jpg); /*cor de fundo*/
+    color: #ffffff; /*cor da fonte*/
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
