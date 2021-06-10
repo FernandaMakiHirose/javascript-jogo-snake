@@ -1,4 +1,5 @@
 # Jogo da Cobrinha/Snake com Javascript
+link do site criado: https://fernandamakihirose.github.io/javascript-jogo-snake/
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
